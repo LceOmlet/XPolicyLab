@@ -1,0 +1,48 @@
+policy/ReStart/download_checkpoints.sh
+  s_25e68cf4b1a70c::t_3f5c2904e3d0cc 1-43
+policy/UniWAM/robotwin_eval_client.py
+  s_25e68cf4b1a70c::t_5e00165ad56ee8 212,214-225,240,253
+policy/ReStart/install.sh
+  s_25e68cf4b1a70c::t_cae2a3ba487dcc 1-4
+policy/ReStart/deploy.yml
+  s_25e68cf4b1a70c::t_00e744262f9302 1-13
+policy/ReStart/eval.sh
+  s_25e68cf4b1a70c::t_2a6fae47838baa 1
+policy/ReStart/__init__.py
+  s_25e68cf4b1a70c::t_4c6667e33ae35a 1
+policy/ReStart/setup_eval_env_client.sh
+  s_25e68cf4b1a70c::t_2b2300f225fcef 1-34
+policy/ReStart/model.py
+  s_25e68cf4b1a70c::t_14b0fdb4dbfb8f 1-112
+  s_25e68cf4b1a70c::t_54f37688eeae17 113-114
+policy/ReStart/deploy.py
+  s_25e68cf4b1a70c::t_56d5916e4910ff 1-5
+policy/ReStart/setup_eval_policy_server.sh
+  s_25e68cf4b1a70c::t_135cef368032ec 1
+policy/ReStart/README.md
+  s_1c99078afc9fae::t_e19b96c69858be 1-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5dfaefd7ed460fb9dd5cc0583bf3c6d199e9ebd9",
+  "prompts": {},
+  "sessions": {
+    "s_1c99078afc9fae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f796-b3dd-7411-b5b4-34b030e8f417",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "黄伟达 <lc566096@antgroup.com>"
+    },
+    "s_25e68cf4b1a70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e2a5-78aa-7dc0-b14f-9b97b8a30896",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "黄伟达 <lc566096@antgroup.com>"
+    }
+  }
+}
