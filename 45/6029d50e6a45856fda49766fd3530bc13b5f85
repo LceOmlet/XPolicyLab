@@ -1,0 +1,19 @@
+policy/ReStart/README.md
+  s_25e68cf4b1a70c::t_5453714c6eff91 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "456029d50e6a45856fda49766fd3530bc13b5f85",
+  "prompts": {},
+  "sessions": {
+    "s_25e68cf4b1a70c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e2a5-78aa-7dc0-b14f-9b97b8a30896",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "黄伟达 <lc566096@antgroup.com>"
+    }
+  }
+}
